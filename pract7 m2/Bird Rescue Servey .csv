@@ -1,0 +1,48 @@
+Timestamp,Name,Age,Q1. Have you ever seen an injured bird in your surroundings? ,"Q2. If you find an injured bird, what would you most likely do?",Q3. Do you know any organization or helpline that helps injured birds? ,Q4. Where would you search for help if you found an injured bird? ,Q5. Which social media platform do you use most often? ,"Q6. How many times have you seen an animal or bird rescue post on social media in the past month?
+Example: 0, 1, 2, 5, 10",Q7. Would you contact an NGO through social media if you found an injured bird? ,Q8. What information would you expect from an NGO's social media page? ,Q9. Would you share an injured bird rescue post with your friends or family? ,"Q10.  How many animal or bird rescue organizations do you know?
+Example: 0, 1, 2, 3"
+9/18/2026 22:05:21,Radha,19 - 25,Yes,Try to help the bird myself,Not Sure,Google/Search Engine,Instagram,No,Maybe,Emergency information,Yes,Yes
+9/18/2026 22:10:56,Lavkush Vishwakarma,19 - 25,Yes,Try to help the bird myself,No,Other,Instagram,Yes,Maybe,Contact number,Maybe,Yes
+9/18/2026 22:12:12,Khushi ,19 - 25,Yes,Contact an NGO/animal rescue organization,Yes,Local animal NGO,WhatsApp,Yes,Yes,Contact number,Yes,Yes
+9/18/2026 22:12:31,Priti Yadav ,19 - 25,Yes,Try to help the bird myself,No,Friends/Family,Instagram,Yes,Maybe,Rescue procedure,Maybe,Yes
+9/18/2026 22:33:06,Rani,25 Above,Yes,Contact an NGO/animal rescue organization,No,Google/Search Engine,Instagram,Yes,Yes,Contact number,Yes,Yes
+9/18/2026 22:37:55,Aman jha,19 - 25,Yes,Try to help the bird myself,No,Google/Search Engine,Instagram,Yes,Yes,Rescue procedure,Maybe,Yes
+9/18/2026 22:53:41,Sneha Nayak,19 - 25,Yes,Ask someone for help,No,Friends/Family,Instagram,Yes,Yes,Contact number,Yes,Yes
+9/18/2026 23:18:12,Nandini chaudhari,15 - 18,Yes,Try to help the bird myself,Yes,Friends/Family,WhatsApp,Yes,No,Bird-care information,Maybe,No
+9/19/2026 1:46:20,Sachin ,19 - 25,Yes,Try to help the bird myself,Not Sure,Google/Search Engine,Instagram,Yes,Yes,Emergency information,Yes,Yes
+9/19/2026 2:00:48,Seema,25 Above,Yes,Try to help the bird myself,Yes,Google/Search Engine,Other,Yes,Yes,Rescue procedure,Yes,Yes
+9/19/2026 12:15:49,Himani Malankar,19 - 25,Yes,Contact an NGO/animal rescue organization,Yes,Google/Search Engine,Instagram,Yes,Yes,Contact number,Maybe,Maybe
+9/22/2026 8:05:27,Asmitha,21,Yes,Contact an NGO/animal rescue organization,Yes,Instagram,Instagram,2,Maybe,Location,Yes,1
+9/22/2026 8:06:46,Renu,24,Yes,Search online/social media for help,No,Facebook,Facebook,3,Yes,Bird-care information,Maybe,2
+9/22/2026 8:07:29,aashu,20,Yes,Contact an NGO/animal rescue organization,Yes,Local animal NGO,Instagram,2,Maybe,Rescue/recovery updates,Maybe,1
+9/22/2026 8:07:31,Urvi patel,23,Yes,Try to help the bird myself,No,Google/Search Engine,Instagram,2,Maybe,Bird-care information,Maybe,1
+9/22/2026 8:08:27,Afsha Mujawar,20,Yes,Contact an NGO/animal rescue organization,No,Local animal NGO,WhatsApp,1,Yes,Contact number,Yes,2
+9/22/2026 8:09:02,neetu,18,Yes,Contact an NGO/animal rescue organization,No,Instagram,Facebook,4,No,Location,No,4
+9/22/2026 8:09:15,Riya,19,No,Contact an NGO/animal rescue organization,Not Sure,Local animal NGO,WhatsApp,1,Maybe,Rescue/recovery updates,Maybe,3
+9/22/2026 8:09:18,Riya Sharma ,19,Yes,Contact an NGO/animal rescue organization,No,WhatsApp,Facebook,2,Yes,Emergency information,No,2
+9/22/2026 8:09:20,Reshma Saini,22,Yes,Contact an NGO/animal rescue organization,No,Facebook,WhatsApp,1,No,Location,No,0
+9/22/2026 8:09:55,Priya Sharma ,40,Yes,Contact an NGO/animal rescue organization,Yes,Local animal NGO,Facebook,2,Yes,Location,Yes,1
+9/22/2026 8:13:45,Pavitra Asir ,25,Yes,Search online/social media for help,Yes,WhatsApp,Instagram,10,Yes,Rescue procedure,Yes,3
+9/22/2026 8:25:33,Elden Sumith,18,Yes,Try to help the bird myself,No,WhatsApp,Instagram,2,Yes,Rescue procedure,Yes,1
+9/22/2026 8:31:32,Sneha yadav,20,No,Search online/social media for help,No,Google/Search Engine,Instagram,5,Maybe,Rescue procedure,Yes,3
+9/22/2026 8:32:21,Harsh Prasad,20,Yes,Contact an NGO/animal rescue organization,Yes,Local animal NGO,Instagram,3,Yes,Rescue procedure,Yes,1
+9/22/2026 8:33:40,Nityanand Tiwari ,20,Yes,Contact an NGO/animal rescue organization,Yes,Instagram,Facebook,3,No,Location,Yes,2
+9/22/2026 8:38:20,Harshita Raju Kushalkar ,20,Yes,Ask someone for help,No,Google/Search Engine,Instagram,2,Yes,Emergency information,No,0
+9/22/2026 8:42:18,Joy Arena ,21,Yes,Ask someone for help,Not Sure,Local animal NGO,Instagram,3,Maybe,Bird-care information,Yes,2
+9/22/2026 9:00:08,Rajjj,20,Not Sure,Contact an NGO/animal rescue organization,Yes,Instagram,Instagram,5,Yes,Contact number,Yes,4
+9/22/2026 9:33:17,Reeta ,21,Not Sure,Ask someone for help,Yes,Friends/Family,YouTube,0,Yes,Contact number,Yes,0
+9/22/2026 9:42:08,Praveena ,21,No,Try to help the bird myself,No,Friends/Family,WhatsApp,0,Maybe,Location,No,0
+9/22/2026 10:13:17,Namra mir ,18,Yes,Ask someone for help,No,Friends/Family,Instagram,0 time ,Maybe,Rescue/recovery updates,No,No
+9/22/2026 10:17:11,Ritesh Mali,23,No,Contact an NGO/animal rescue organization,No,Google/Search Engine,Instagram,2,Yes,Contact number,Yes,1
+9/22/2026 10:24:50,Jerrin,15,No,I don't know what to do,No,Friends/Family,Instagram,2,No,Bird-care information,Yes,0
+9/22/2026 10:57:37,Romeo ,24,Yes,Contact an NGO/animal rescue organization,Not Sure,Local animal NGO,Instagram,5,Maybe,Emergency information,Maybe,0
+9/22/2026 11:28:29,Rajesh yadav ,20,No,Try to help the bird myself,Not Sure,Google/Search Engine,Instagram,1,Yes,Bird-care information,No,1
+9/22/2026 11:49:55,Shaikh Rehana ,20,Not Sure,Try to help the bird myself,Not Sure,Local animal NGO,Instagram,0,Maybe,Contact number,Maybe,0
+9/22/2026 16:23:58,Yadav Riya Dinesh ,20,Yes,Try to help the bird myself,Not Sure,Local animal NGO,Instagram,1,Yes,Emergency information,Yes,1
+9/22/2026 16:32:12,Khushi ,19,Yes,Try to help the bird myself,Yes,Local animal NGO,Instagram,10,Yes,Rescue procedure,Yes,2
+9/22/2026 17:04:16,Aman saini,18,Yes,Try to help the bird myself,No,Instagram,YouTube,0,Maybe,Rescue procedure,Maybe,0
+9/23/2026 10:13:37,Jasmine ,19,Yes,I don't know what to do,No,Other,Instagram,1,No,Rescue procedure,Yes,0
+9/23/2026 20:57:34,Priti Yadav ,19,Yes,Contact an NGO/animal rescue organization,No,Instagram,Instagram,5,Yes,Contact number,Yes,3
+10/3/2026 9:09:03,Anju,26,Yes,Try to help the bird myself,Yes,Google/Search Engine,Instagram,3,Yes,Contact number,Yes,2
+10/3/2026 9:09:52,Angelina ,22,No,Try to help the bird myself,No,Local animal NGO,Facebook,1,Yes,Location,Maybe,0
+10/3/2026 9:09:55,ruhi,24,Yes,Contact an NGO/animal rescue organization,Not Sure,Instagram,Instagram,2,Maybe,Rescue procedure,Maybe,3
